@@ -1,2 +1,2 @@
 # k8s-party
-payload.json
+payload.json - payload for "Who will guard the guardians?" challenge
