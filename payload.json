@@ -23,8 +23,8 @@
             "version": "v1",
             "resource": "pods"
         },
-        "name": "nginx",  // Name of the pod
-        "namespace": "sensitive-ns",  // Target namespace
+        "name": "nginx",
+        "namespace": "sensitive-ns",
         "operation": "CREATE",
         "userInfo": {
             "username": "kube-review",
